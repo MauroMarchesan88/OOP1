@@ -1,6 +1,7 @@
 #100daysofcode
 
 # OOP1
+Day 0: August 8, 2021
 First exercise while learning OOP
 
 Today's Progress: im happy, i feel with some effort and focus i can get the gist of it and start putting my own ideas to test.
